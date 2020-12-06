@@ -505,7 +505,7 @@
         </member>
         <member name="M:ClinicalX.Controllers.DoctorController.Get(System.Int32)">
             <summary>
-            To get a specific doctor
+            To get doctor by Id
             </summary>
             <param name="id">Doctor Id</param>
             <returns>Doctor Object and Message</returns>
