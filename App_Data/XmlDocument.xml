@@ -532,6 +532,12 @@
             <param name="specialist"></param>
             <returns></returns>
         </member>
+        <member name="M:ClinicalX.Controllers.DoctorController.GetSpecialities">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:ClinicalX.Controllers.DonnerController">
             <summary>
             Donner Info
